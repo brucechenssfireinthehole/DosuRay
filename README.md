@@ -4,7 +4,3 @@ This is a tool for extracting visible features such as face/line/points from 3D 
 
 For any question, please contact: cbbsjtu@126.com
 
-create dev branch.
-
-test again about branch
-test dev and devv
